@@ -1,0 +1,13 @@
+.git
+.github
+.gradle
+.idea
+.codex
+build
+out
+*.iml
+*.log
+.DS_Store
+Dockerfile*
+README.md
+HELP.md
