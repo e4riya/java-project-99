@@ -1,3 +1,9 @@
 spring:
   application:
     name: app
+
+  profiles:
+    default: dev
+
+  server:
+    port: ${PORT:8080}
